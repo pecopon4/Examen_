@@ -1,0 +1,30 @@
+Body{
+    /*Background:URL (../img/background.jpg) No-repeat center center fixed;*/
+    background-size:cover;
+}
+
+.Main-section {
+    Margin: 0 auto;
+    Margin-top:5%;
+}
+
+.Card{
+Opacity:.95;
+}
+
+.Card-Body {
+    background-color: #F3E4A2;
+    Box-shadow: 0px 0px 3px #848484;
+}
+
+.Label{
+	FONT-weight: bold;
+}
+
+.Nav-Tabs .Nav-item a:not(.Active) {
+	background-color: #d1d3d6;
+}
+
+.Nav-Tabs {
+	Border-bottom: 0px;
+}
